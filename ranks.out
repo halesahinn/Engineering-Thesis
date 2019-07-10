@@ -1,0 +1,4164 @@
+--------RANK AT GENERATION 1--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			7			7			0.500000
+ 2			13			14			0.518519
+ 3			12			28			0.700000
+ 4			16			30			0.652174
+ 5			17			21			0.552632
+ 6			10			0			0.000000
+ 7			4			0			0.000000
+ 8			11			0			0.000000
+ 9			6			0			0.000000
+ 10			3			0			0.000000
+ 11			1			0			0.000000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 2--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			7			8			0.533333
+ 2			14			9			0.391304
+ 3			28			17			0.377778
+ 4			30			19			0.387755
+ 5			21			25			0.543478
+ 6			0			22			1.000000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 3--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			8			9			0.529412
+ 2			9			16			0.640000
+ 3			17			12			0.413793
+ 4			19			20			0.512821
+ 5			25			27			0.519231
+ 6			22			16			0.421053
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 4--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			9			9			0.500000
+ 2			16			20			0.555556
+ 3			12			30			0.714286
+ 4			20			24			0.545455
+ 5			27			17			0.386364
+ 6			16			16			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 5--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			9			15			0.625000
+ 2			20			14			0.411765
+ 3			30			31			0.508197
+ 4			24			40			0.625000
+ 5			17			0			0.000000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 6--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			15			19			0.558824
+ 2			14			23			0.621622
+ 3			31			28			0.474576
+ 4			40			30			0.428571
+ 5			0			0			-1.#IND00
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 7--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			19			14			0.424242
+ 2			23			26			0.530612
+ 3			28			24			0.461538
+ 4			30			29			0.491525
+ 5			0			7			1.000000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 8--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			14			11			0.440000
+ 2			26			38			0.593750
+ 3			24			26			0.520000
+ 4			29			25			0.462963
+ 5			7			7			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 9--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			11			18			0.620690
+ 2			38			25			0.396825
+ 3			26			38			0.593750
+ 4			25			19			0.431818
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 10--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			18			22			0.550000
+ 2			25			26			0.509804
+ 3			38			37			0.493333
+ 4			19			15			0.441176
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 11--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			22			28			0.560000
+ 2			26			36			0.580645
+ 3			37			32			0.463768
+ 4			15			4			0.210526
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 12--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			28			32			0.533333
+ 2			36			40			0.526316
+ 3			32			28			0.466667
+ 4			4			4			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 13--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			32			32			0.500000
+ 2			40			39			0.493671
+ 3			28			29			0.508772
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 14--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			32			37			0.536232
+ 2			39			47			0.546512
+ 3			29			16			0.355556
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 15--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			37			48			0.564706
+ 2			47			42			0.471910
+ 3			16			10			0.384615
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 16--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			48			58			0.547170
+ 2			42			42			0.500000
+ 3			10			10			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 17--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			58			54			0.482143
+ 2			42			46			0.522727
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 18--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			54			61			0.530435
+ 2			46			39			0.458824
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 19--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			61			64			0.512000
+ 2			39			36			0.480000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 20--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			64			56			0.466667
+ 2			36			44			0.550000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 21--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			56			59			0.513043
+ 2			44			41			0.482353
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 22--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			59			50			0.458716
+ 2			41			50			0.549451
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 23--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			50			51			0.504951
+ 2			50			49			0.494949
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 24--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			51			52			0.504854
+ 2			49			48			0.494845
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 25--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			52			66			0.559322
+ 2			48			34			0.414634
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 26--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			66			72			0.521739
+ 2			34			28			0.451613
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 27--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			72			76			0.513514
+ 2			28			24			0.461538
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 28--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			76			82			0.518987
+ 2			24			18			0.428571
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 29--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			82			87			0.514793
+ 2			18			13			0.419355
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 30--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			87			100			0.534759
+ 2			13			13			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 31--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			94			0.484536
+ 2			13			6			0.315789
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 32--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			94			100			0.515464
+ 2			6			6			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 33--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			91			0.476440
+ 2			6			9			0.600000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 34--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			91			100			0.523560
+ 2			9			9			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 35--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 36--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 37--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			89			0.470899
+ 2			9			11			0.550000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 38--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			89			100			0.529101
+ 2			11			11			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 39--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+ 2			11			0			0.000000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 40--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			95			0.487179
+ 2			0			5			1.000000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 41--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			95			85			0.472222
+ 2			5			15			0.750000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 42--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			85			100			0.540541
+ 2			15			15			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 43--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 44--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 45--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			97			0.492386
+ 2			15			3			0.166667
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 46--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			97			94			0.492147
+ 2			3			6			0.666667
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 47--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			94			98			0.510417
+ 2			6			2			0.250000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 48--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			98			92			0.484211
+ 2			2			8			0.800000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 49--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			92			100			0.520833
+ 2			8			8			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 50--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 51--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+ 2			8			0			0.000000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 52--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			83			0.453552
+ 2			0			17			1.000000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 53--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			83			73			0.467949
+ 2			17			27			0.613636
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 54--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			73			77			0.513333
+ 2			27			23			0.460000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 55--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			77			86			0.527607
+ 2			23			14			0.378378
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 56--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			86			80			0.481928
+ 2			14			20			0.588235
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 57--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			80			84			0.512195
+ 2			20			16			0.444444
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 58--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			84			89			0.514451
+ 2			16			11			0.407407
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 59--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			89			87			0.494318
+ 2			11			13			0.541667
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 60--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			87			100			0.534759
+ 2			13			13			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 61--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			89			0.470899
+ 2			13			11			0.458333
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 62--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			89			99			0.526596
+ 2			11			1			0.083333
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 63--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			99			94			0.487047
+ 2			1			6			0.857143
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 64--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			94			100			0.515464
+ 2			6			6			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 65--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 66--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 67--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 68--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 69--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 70--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 71--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			91			0.476440
+ 2			6			9			0.600000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 72--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			91			98			0.518519
+ 2			9			2			0.181818
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 73--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			98			95			0.492228
+ 2			2			5			0.714286
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 74--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			95			100			0.512821
+ 2			5			5			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 75--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			97			0.492386
+ 2			5			3			0.375000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 76--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			97			100			0.507614
+ 2			3			3			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 77--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			92			0.479167
+ 2			3			8			0.727273
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 78--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			92			100			0.520833
+ 2			8			8			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 79--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 80--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 81--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			97			0.492386
+ 2			8			3			0.272727
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 82--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			97			95			0.494792
+ 2			3			5			0.625000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 83--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			95			99			0.510309
+ 2			5			1			0.166667
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 84--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			99			100			0.502513
+ 2			1			1			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 85--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			97			0.492386
+ 2			1			3			0.750000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 86--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			97			97			0.500000
+ 2			3			3			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 87--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			97			100			0.507614
+ 2			3			3			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 88--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 89--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			96			0.489796
+ 2			3			4			0.571429
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 90--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			96			100			0.510204
+ 2			4			4			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 91--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 92--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 93--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+ 2			4			0			0.000000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 94--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+ 2			0			0			-1.#IND00
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 95--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 96--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			99			0.497487
+ 2			0			1			1.000000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 97--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			99			100			0.502513
+ 2			1			1			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 98--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 99--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			96			0.489796
+ 2			1			4			0.800000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 100--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			96			100			0.510204
+ 2			4			4			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 101--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 102--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 103--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 104--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 105--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 106--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+ 2			4			0			0.000000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 107--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			95			0.487179
+ 2			0			5			1.000000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 108--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			95			94			0.497355
+ 2			5			6			0.545455
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 109--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			94			76			0.447059
+ 2			6			24			0.800000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 110--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			76			76			0.500000
+ 2			24			24			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 111--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			76			83			0.522013
+ 2			24			17			0.414634
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 112--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			83			74			0.471338
+ 2			17			26			0.604651
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 113--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			74			66			0.471429
+ 2			26			34			0.566667
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 114--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			66			73			0.525180
+ 2			34			27			0.442623
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 115--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			73			73			0.500000
+ 2			27			27			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 116--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			73			85			0.537975
+ 2			27			15			0.357143
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 117--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			85			72			0.458599
+ 2			15			28			0.651163
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 118--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			72			81			0.529412
+ 2			28			19			0.404255
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 119--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			81			98			0.547486
+ 2			19			2			0.095238
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 120--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			98			100			0.505050
+ 2			2			2			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 121--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			91			0.476440
+ 2			2			9			0.818182
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 122--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			91			93			0.505435
+ 2			9			7			0.437500
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 123--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			93			100			0.518135
+ 2			7			7			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 124--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			90			0.473684
+ 2			7			10			0.588235
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 125--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			90			91			0.502762
+ 2			10			9			0.473684
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 126--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			91			93			0.505435
+ 2			9			7			0.437500
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 127--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			93			100			0.518135
+ 2			7			7			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 128--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 129--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 130--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 131--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 132--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			92			0.479167
+ 2			7			8			0.533333
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 133--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			92			97			0.513228
+ 2			8			3			0.272727
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 134--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			97			100			0.507614
+ 2			3			3			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 135--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 136--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 137--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+ 2			3			0			0.000000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 138--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+ 2			0			0			-1.#IND00
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 139--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 140--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 141--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 142--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 143--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 144--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 145--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 146--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 147--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 148--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 149--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 150--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 151--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 152--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 153--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 154--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 155--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 156--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 157--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			96			0.489796
+ 2			0			4			1.000000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 158--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			96			100			0.510204
+ 2			4			4			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 159--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 160--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 161--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 162--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 163--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 164--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 165--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 166--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 167--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 168--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 169--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			96			0.489796
+ 2			4			4			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 170--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			96			100			0.510204
+ 2			4			4			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 171--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 172--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 173--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 174--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 175--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 176--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 177--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 178--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 179--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 180--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 181--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 182--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 183--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 184--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 185--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 186--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+ 2			4			0			0.000000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 187--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+ 2			0			0			-1.#IND00
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 188--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 189--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 190--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 191--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 192--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 193--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 194--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 195--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 196--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 197--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 198--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 199--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 200--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 201--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 202--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 203--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 204--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 205--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 206--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 207--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 208--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 209--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 210--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 211--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			97			0.492386
+ 2			0			3			1.000000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 212--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			97			100			0.507614
+ 2			3			3			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 213--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 214--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 215--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 216--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 217--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 218--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 219--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 220--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 221--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 222--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 223--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 224--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 225--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 226--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 227--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 228--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 229--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 230--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 231--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 232--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 233--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 234--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 235--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 236--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 237--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 238--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 239--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 240--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 241--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 242--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 243--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 244--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 245--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 246--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 247--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 248--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 249--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 250--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			92			0.479167
+ 2			3			8			0.727273
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 251--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			92			100			0.520833
+ 2			8			8			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 252--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 253--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 254--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 255--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 256--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 257--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 258--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 259--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 260--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 261--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 262--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 263--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 264--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 265--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 266--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 267--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 268--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 269--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 270--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 271--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 272--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 273--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 274--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 275--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 276--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 277--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 278--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 279--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 280--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 281--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 282--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 283--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 284--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 285--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 286--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 287--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 288--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 289--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 290--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 291--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 292--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 293--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 294--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 295--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 296--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 297--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 298--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 299--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 300--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 301--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 302--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 303--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 304--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 305--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 306--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 307--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 308--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 309--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 310--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 311--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 312--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 313--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 314--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 315--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 316--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 317--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 318--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 319--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 320--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 321--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 322--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 323--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 324--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 325--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 326--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 327--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 328--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 329--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 330--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 331--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 332--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 333--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 334--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 335--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 336--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 337--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 338--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 339--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 340--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 341--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 342--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 343--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 344--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 345--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 346--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 347--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 348--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 349--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 350--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 351--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 352--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 353--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 354--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 355--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 356--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 357--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 358--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 359--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 360--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 361--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 362--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 363--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 364--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 365--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 366--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 367--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 368--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 369--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 370--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 371--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 372--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 373--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 374--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 375--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 376--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 377--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 378--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 379--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 380--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 381--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 382--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 383--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 384--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 385--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 386--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 387--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 388--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 389--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 390--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 391--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 392--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 393--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 394--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 395--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 396--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 397--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 398--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 399--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 400--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 401--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 402--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 403--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 404--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 405--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 406--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 407--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 408--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 409--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 410--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 411--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 412--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 413--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 414--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 415--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 416--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 417--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 418--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 419--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 420--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 421--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 422--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 423--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 424--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 425--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 426--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 427--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 428--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 429--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 430--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 431--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 432--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 433--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 434--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 435--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 436--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 437--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 438--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 439--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 440--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 441--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 442--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 443--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 444--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 445--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 446--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 447--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 448--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 449--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 450--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 451--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 452--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 453--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 454--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 455--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 456--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 457--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 458--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 459--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 460--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 461--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 462--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 463--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 464--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 465--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 466--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 467--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 468--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 469--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 470--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 471--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 472--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 473--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 474--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 475--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 476--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 477--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 478--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 479--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 480--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 481--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 482--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 483--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 484--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 485--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 486--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 487--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 488--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 489--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 490--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 491--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 492--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 493--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 494--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 495--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 496--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 497--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 498--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 499--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 500--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 501--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 502--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 503--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 504--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 505--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 506--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 507--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 508--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 509--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 510--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 511--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 512--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 513--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 514--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 515--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 516--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 517--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 518--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 519--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 520--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 521--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 522--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 523--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 524--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 525--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 526--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 527--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 528--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 529--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 530--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 531--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 532--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 533--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 534--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 535--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 536--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 537--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 538--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 539--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 540--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 541--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 542--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 543--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 544--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 545--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 546--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 547--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 548--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 549--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 550--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 551--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 552--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 553--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 554--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 555--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 556--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 557--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 558--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 559--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 560--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 561--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 562--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 563--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 564--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 565--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 566--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 567--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 568--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 569--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 570--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 571--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 572--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 573--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 574--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 575--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 576--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 577--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 578--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 579--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 580--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 581--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 582--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 583--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 584--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 585--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 586--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 587--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 588--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 589--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 590--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 591--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 592--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 593--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 594--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 595--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 596--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 597--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 598--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 599--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 600--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 601--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 602--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 603--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 604--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 605--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 606--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 607--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 608--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 609--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 610--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 611--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 612--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 613--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 614--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 615--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 616--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 617--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 618--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 619--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 620--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 621--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 622--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 623--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 624--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 625--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 626--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 627--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 628--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 629--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 630--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 631--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 632--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 633--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 634--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 635--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 636--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 637--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 638--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 639--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 640--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 641--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 642--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 643--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 644--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 645--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 646--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 647--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 648--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 649--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 650--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 651--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 652--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 653--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 654--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 655--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 656--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 657--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 658--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 659--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 660--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 661--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 662--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 663--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 664--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 665--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 666--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 667--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 668--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 669--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 670--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 671--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 672--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 673--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 674--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 675--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 676--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 677--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 678--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 679--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 680--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 681--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 682--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 683--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 684--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 685--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 686--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 687--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 688--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 689--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 690--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 691--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 692--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 693--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 694--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 695--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 696--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 697--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 698--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 699--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 700--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 701--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 702--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 703--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 704--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 705--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 706--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 707--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 708--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 709--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 710--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 711--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 712--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 713--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 714--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 715--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 716--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 717--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 718--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 719--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 720--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 721--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 722--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 723--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 724--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 725--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 726--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 727--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 728--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 729--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 730--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 731--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 732--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 733--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 734--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 735--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 736--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 737--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 738--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 739--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 740--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 741--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 742--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 743--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 744--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 745--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 746--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 747--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 748--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 749--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 750--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 751--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 752--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 753--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 754--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 755--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 756--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 757--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 758--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 759--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 760--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 761--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 762--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 763--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 764--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 765--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 766--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 767--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 768--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 769--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 770--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 771--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 772--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 773--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 774--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 775--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 776--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 777--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 778--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 779--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 780--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 781--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 782--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 783--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 784--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 785--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 786--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 787--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 788--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 789--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 790--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 791--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 792--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 793--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 794--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 795--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 796--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 797--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 798--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 799--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 800--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 801--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 802--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 803--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 804--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 805--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 806--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 807--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 808--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 809--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 810--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 811--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 812--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 813--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 814--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 815--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 816--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 817--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 818--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 819--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 820--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 821--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 822--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 823--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 824--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 825--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 826--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 827--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 828--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 829--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 830--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 831--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 832--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 833--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 834--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 835--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 836--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 837--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 838--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 839--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 840--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 841--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 842--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 843--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 844--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 845--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 846--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 847--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 848--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 849--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 850--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 851--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 852--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 853--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 854--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 855--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 856--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 857--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 858--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 859--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 860--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 861--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 862--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 863--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 864--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 865--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 866--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 867--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 868--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 869--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 870--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 871--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 872--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 873--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 874--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 875--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 876--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 877--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 878--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 879--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 880--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 881--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 882--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 883--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 884--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 885--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 886--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 887--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 888--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 889--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 890--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 891--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 892--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 893--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 894--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 895--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 896--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 897--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 898--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 899--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 900--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 901--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 902--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 903--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 904--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 905--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 906--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 907--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 908--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 909--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 910--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 911--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 912--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 913--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 914--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 915--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 916--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 917--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 918--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 919--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 920--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 921--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 922--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 923--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 924--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 925--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 926--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 927--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 928--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 929--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 930--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 931--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 932--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 933--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 934--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 935--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 936--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 937--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 938--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 939--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 940--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 941--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 942--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 943--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 944--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 945--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 946--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 947--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 948--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 949--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 950--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 951--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 952--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 953--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 954--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 955--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 956--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 957--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 958--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 959--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 960--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 961--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 962--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 963--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 964--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 965--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 966--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 967--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 968--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 969--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 970--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 971--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 972--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 973--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 974--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 975--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 976--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 977--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 978--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 979--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 980--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 981--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 982--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 983--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 984--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 985--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 986--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 987--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 988--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 989--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 990--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 991--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 992--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 993--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 994--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 995--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 996--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 997--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 998--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 999--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
+--------RANK AT GENERATION 1000--------------
+Rank	old ranks	new ranks		rank ratio
+ 1			100			100			0.500000
+-----------------Rank Ratio-------------------
